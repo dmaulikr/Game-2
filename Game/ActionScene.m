@@ -241,6 +241,7 @@ static NSString *kSettingsScore = @"HighScore";
     self.lastUpdateTimeInterval = currentTime;
     
     // Настройка сложности. Настройка интервала времени появления врагов и скорости их движения.
+    // в данном случае повышение сложности происходит очень быстро в целях отладки. 
     if (self.totalGameTime > 480) {
         // 480 / 60 = 8 минут игрового времени
         self.addEnemyTimeInterval = 0.5;
