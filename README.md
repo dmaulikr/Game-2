@@ -26,7 +26,7 @@
 Все действия имеют соответствующее звуковое сопровождение.   
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/23423988/22820731/1955464e-ef89-11e6-93a6-ff810cde77a7.png" alt="Image") />
+  <img src="https://cloud.githubusercontent.com/assets/23423988/23330613/0cddc586-fb63-11e6-8604-c2931a5ca0eb.gif" alt="Image") />
 </p>
 
 С течением времени, для придания игре возрастающей сложности, скорость движения врагов и частота их появления увеличиваются.
